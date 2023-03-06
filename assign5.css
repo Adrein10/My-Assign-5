@@ -1,0 +1,61 @@
+#navchild{
+    margin: 0px 10px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 5%;
+}
+#navchild:active{
+    color: white;
+    background: rgb(0, 110, 255);
+}
+#navchild:hover{
+    background: rgb(0, 110, 255) ;
+    color: white;
+}
+#logos{
+    margin-right: 50px;
+
+}
+#buttons button{
+    font-size: 20px;
+    border-radius: 5%;
+    color: rgb(0, 110, 255);
+    background: rgb(194, 210, 255);
+    border: none;
+    padding: 8px;
+    margin-left: 200px;
+}
+#buttons button:hover{
+    color: white;
+    background: rgb(0, 110, 255);
+}
+#info1{
+    color: white;
+    background: rgb(0, 110, 255);
+    padding: 120px;
+}
+#info1data h1{
+    font-size: 50px;
+}
+#info1data a{
+    padding: 20px;
+    background: white;
+    text-decoration: none;
+    border-radius: 5%;
+}
+#info1data button{
+    padding: 17px;
+    background: none;
+    border: 2px solid white;
+    color: white;
+    border-radius: 5%;
+    margin-left: 10px;
+}
+#info1data button:hover{
+    background: white;
+    color: rgb(0, 110, 255) ;
+}
+#about{
+    text-align: center;
+}
